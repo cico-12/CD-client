@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">CityDoner</string>
+    <string name="intro_text">Dobrodošli u City Doner! \nIzaberite jezik i počnite naručivati.</string>
+    <string name="intro_button_text">Započni narudžbu</string>
+    <string name="main_preporuceno_naslov">Preporučeno</string>
+    <string name="main_doner_title">Doner</string>+
+    <string name="restart">Povratak na početak</string>
+    <string name="korpa">Korpa</string>
+    <string name="rostilj_title">Roštilj</string>
+    <string name="tortilja_title">Tortilja</string>
+    <string name="plata_title">Plate</string>
+    <string name="prilog_title">Prilog</string>
+    <string name="pice_title">Pića</string>
+    <string name="add_to_cart">Dodaj u korpu</string>
+
+
+
+    <string name="item_doner_juneci">Juneći Doner</string>
+    <string name="item_doner_chicken">Pileći Doner</string>
+    <string name="item_doner_salad">Doner Salata</string>
+    <string name="item_doner_box">Doner Box</string>
+    <string name="item_doner_cheese">Doner sa \nsirom</string>
+    
+    
+    <string name="item_tortilja_juneća">Juneća Tortilja</string>
+    <string name="item_tortilja_pileća">Pileća Tortilja</string>
+
+
+    <string name="item_hamburger">Hamburger</string>
+    <string name="item_cizburger">Čizburger</string>
+    <string name="item_chicken_file">Pileći file</string>
+
+
+    <string name="item_plata_sarajevo">Doner Plata Sarajevo</string>
+    <string name="item_plata_berlin">Doner Plata Berlin</string>
+    <string name="item_plata_istanbul">Doner Plata Istanbul</string>
+
+
+    <string name="item_pomfrit">Pomfrit</string>
+    <string name="item_riza">Riža</string>
+
+
+    <string name="item_gazirani">Gazirani sokovi</string>
+    <string name="item_prirodni">Prirodni sokovi</string>
+    <string name="item_mineralna">Mineralna voda</string>
+    <string name="item_prirodna">Prirodna voda</string>
+    <string name="item_ayran">Ayran</string>
+    <string name="menu">Meni</string>
+
+
+    <string name="quantity_format">Količina: %d</string>
+    <string name="price_format">Cijena: KM %.2f</string>
+
+    <string name="cart_back">Nazad</string>
+    <string name="cart_order">Naruči</string>
+    <string name="cart_total">Ukupno: %s KM</string>
+
+
+
+    <string name="kecap">Kečap</string>
+    <string name="majoneza">Majoneza</string>
+    <string name="kupus">Kupus</string>
+    <string name="salata">Salata</string>
+    <string name="luk">Luk</string>
+    <string name="blagi_sos">Blagi sos</string>
+    <string name="ljuti_sos">Ljuti sos</string>
+    <string name="paradajz">Paradajz</string>
+    <string name="chilli">Čili</string>
+
+
+    <string name="prilozi">Prilozi: </string>
+    <string name="bez_priloga">Solo</string>
+
+</resources>

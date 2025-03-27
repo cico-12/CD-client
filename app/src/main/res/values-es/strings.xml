@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">CityDoner</string>
+    <string name="intro_text">¡Bienvenidos a City Doner! \nElija su idioma y comience a realizar pedidos.</string>
+    <string name="intro_button_text">Inicia tu pedido</string>
+    <string name="main_preporuceno_naslov">Recomendado</string>
+    <string name="main_doner_title">Kebab</string>
+    <string name="restart">De vuelta al principio</string>
+    <string name="korpa">Cesta</string>
+    <string name="rostilj_title">Parilla</string>
+    <string name="tortilja_title">Tortilla</string>
+    <string name="plata_title">Plato Döner</string>
+    <string name="prilog_title">Guarnición</string>
+    <string name="pice_title">Bebidas</string>
+    <string name="add_to_cart">Añadir a la cesta</string>
+
+
+
+    <string name="item_doner_juneci">Döner de carne</string>
+    <string name="item_doner_chicken">Döner de pollo</string>
+    <string name="item_doner_salad">Ensalada Döner</string>
+    <string name="item_doner_box">Caja Döner</string>
+    <string name="item_doner_cheese">Döner con queso</string>
+
+
+    <string name="item_tortilja_juneća">Tortilla De Cordero</string>
+    <string name="item_tortilja_pileća">Tortilla de pollo</string>
+
+
+    <string name="item_hamburger">Hamburguesa</string>
+    <string name="item_cizburger">Hamburguesa con queso</string>
+    <string name="item_chicken_file">Filete de pollo</string>
+
+
+    <string name="item_plata_sarajevo">Plato de doner de Sarajevo</string>
+    <string name="item_plata_berlin">Plato de doner de Berlin</string>
+    <string name="item_plata_istanbul">Plato de doner de Istanbul</string>
+
+
+    <string name="item_pomfrit">Pompafrita</string>
+    <string name="item_riza">Arroz</string>
+
+
+    <string name="item_gazirani">Jugos carbonatados</string>
+    <string name="item_prirodni">Jugos naturales</string>
+    <string name="item_mineralna">Agua mineral</string>
+    <string name="item_prirodna">Agua natural</string>
+    <string name="item_ayran">Ayran</string>
+    <string name="menu">Menú</string>
+
+
+    <string name="cart_back">Atrás</string>
+    <string name="cart_order">Total</string>
+    <string name="cart_total">Pedido: %s KM </string>
+
+
+    <string name="kecap">Ketchup</string>
+    <string name="majoneza">Mayonesa</string>
+    <string name="kupus">Repollo</string>
+    <string name="salata">Ensalada</string>
+    <string name="luk">Cebolla</string>
+    <string name="blagi_sos">Salsa suave</string>
+    <string name="ljuti_sos">Salsa picante</string>
+    <string name="paradajz">Tomate</string>
+    <string name="chilli">Chile</string>
+
+    <string name="prilozi">Aderezos</string>
+    <string name="bez_priloga">Solo</string>
+
+</resources>

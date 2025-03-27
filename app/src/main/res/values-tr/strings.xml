@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">CityDoner</string>
+    <string name="intro_text">City Doner\'a hoş geldiniz! \nDilinizi seçin ve sipariş vermeye başlayın.</string>
+    <string name="intro_button_text">Siparişi başlat</string>
+    <string name="main_preporuceno_naslov">Tavsiye edilen</string>
+    <string name="main_doner_title">Döner</string>
+    <string name="restart">Başa dön</string>
+    <string name="korpa">Sepet</string>
+    <string name="rostilj_title">Barbekü</string>
+    <string name="tortilja_title">Tortilla</string>
+    <string name="plata_title">Döner tabağı</string>
+    <string name="prilog_title">Garnitürler</string>
+    <string name="pice_title">İçecekler</string>
+    <string name="add_to_cart">Sepete ekle</string>
+
+
+    <string name="item_doner_juneci">Dana Döner</string>
+    <string name="item_doner_chicken">Tavuk Döner</string>
+    <string name="item_doner_salad">Döner salatası</string>
+    <string name="item_doner_box">Döner Kutusu</string>
+    <string name="item_doner_cheese">Peynirli döner</string>
+
+
+
+    <string name="item_tortilja_juneća">Kuzu Tortilla</string>
+    <string name="item_tortilja_pileća">Tavuk Tortilla</string>
+
+
+    <string name="item_hamburger">Hamburger</string>
+    <string name="item_cizburger">Cheeseburger</string>
+    <string name="item_chicken_file">Tavuk fileto</string>
+
+
+    <string name="item_plata_sarajevo">Döner Plata Saraybosna</string>
+    <string name="item_plata_berlin">Döner Plata Berlin</string>
+    <string name="item_plata_istanbul">Döner Plata İstanbul</string>
+
+
+    <string name="item_pomfrit">Patates kızartması</string>
+    <string name="item_riza">Pirinç</string>
+
+
+    <string name="item_gazirani">Gazlı meyve suları</string>
+    <string name="item_prirodni">Doğal meyve suları</string>
+    <string name="item_mineralna">Maden suyu</string>
+    <string name="item_prirodna">Doğal su</string>
+    <string name="item_ayran">Ayran</string>
+    <string name="menu">Menü</string>
+
+
+    <string name="cart_back">Geri</string>
+    <string name="cart_order">Toplam</string>
+    <string name="cart_total">Sipariş: %s KM</string>
+
+
+    <string name="kecap">Ketçap</string>
+    <string name="majoneza">Mayonez</string>
+    <string name="kupus">Lahana</string>
+    <string name="salata">Salata</string>
+    <string name="luk">Soğan</string>
+    <string name="blagi_sos">Hafif sos</string>
+    <string name="ljuti_sos">Acı sos</string>
+    <string name="paradajz">Domates</string>
+    <string name="chilli">Acı biber</string>
+
+    <string name="prilozi">Üst malzemeler</string>
+    <string name="bez_priloga">Solo</string>
+</resources>

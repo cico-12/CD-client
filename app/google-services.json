@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "887170766497",
+    "firebase_url": "https://citydoner-2025-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "citydoner-2025",
+    "storage_bucket": "citydoner-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887170766497:android:4780221c6d8551a53742e0",
+        "android_client_info": {
+          "package_name": "com.morde.citydoner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7w1sg2HymPVQy7W-tYhUGzp9qgL6G89M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

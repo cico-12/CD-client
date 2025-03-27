@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">CityDoner</string>
+    <string name="intro_text">Welcome to City Doner! \nSelect your language and start ordering</string>
+    <string name="intro_button_text">Start ordering</string>
+    <string name="main_preporuceno_naslov">Recommended</string>
+    <string name="main_doner_title">Doner</string>
+    <string name="restart">Restart</string>
+    <string name="korpa">Cart</string>
+    <string name="rostilj_title">Grill</string>
+    <string name="tortilja_title">Tortilla</string>
+    <string name="plata_title">Doner Plate</string>
+    <string name="prilog_title">Side Dish</string>
+    <string name="pice_title">Drinks</string>
+    <string name="add_to_cart">Add to cart</string>
+
+
+
+
+    <string name="item_doner_juneci">Beef Doner</string>
+    <string name="item_doner_chicken">Chicken Doner</string>
+    <string name="item_doner_salad">Doner Salad</string>
+    <string name="item_doner_box">Doner Box</string>
+    <string name="item_doner_cheese">Doner with cheese</string>
+
+
+
+    <string name="item_tortilja_juneća">Beef Tortilla</string>
+    <string name="item_tortilja_pileća">Chicken Tortilla</string>
+
+
+    <string name="item_hamburger">Hamburger</string>
+    <string name="item_cizburger">Cheeseburger</string>
+    <string name="item_chicken_file">Chicken fillet</string>
+
+
+    <string name="item_plata_sarajevo">Doner Plate Sarajevo</string>
+    <string name="item_plata_berlin">Doner Plate Berlin</string>
+    <string name="item_plata_istanbul">Doner Plate Istanbul</string>
+
+
+    <string name="item_pomfrit">French fries</string>
+    <string name="item_riza">Rice</string>
+
+
+    <string name="item_gazirani">Soft drinks</string>
+    <string name="item_prirodni">Natural juices</string>
+    <string name="item_mineralna">Mineral water</string>
+    <string name="item_prirodna">Natural water</string>
+    <string name="item_ayran">Ayran</string>
+    <string name="menu">Menu</string>
+
+
+
+    <string name="cart_back">Back</string>
+    <string name="cart_order">Place Order</string>
+    <string name="cart_total">Total: %s KM</string>
+
+
+    <string name="kecap">Ketchup</string>
+    <string name="majoneza">Mayonnaise</string>
+    <string name="kupus">Cabbage</string>
+    <string name="salata">Salad</string>
+    <string name="luk">Onion</string>
+    <string name="blagi_sos">Mild sauce</string>
+    <string name="ljuti_sos">Hot sauce</string>
+    <string name="paradajz">Tomato</string>
+    <string name="chilli">Chilli</string>
+
+
+    <string name="prilozi">Toppings: </string>
+    <string name="bez_priloga">Solo</string>
+
+</resources>

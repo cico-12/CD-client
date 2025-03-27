@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">CityDoner</string>
+    <string name="intro_text">مرحبا بكم في مدينة دونر! \nاختر لغتك وابدأ الطلب.</string>
+    <string name="intro_button_text">ابدأ الطلب</string>
+    <string name="main_preporuceno_naslov">مُستَحسَن</string>
+    <string name="main_doner_title">كباب</string>
+    <string name="restart">العودة إلى البداية</string>
+    <string name="korpa">سلة</string>
+    <string name="rostilj_title">الشواء</string>
+    <string name="tortilja_title">تورتيلا</string>
+    <string name="plata_title">طبق دونر</string>
+    <string name="prilog_title">أطباق جانبية</string>
+    <string name="pice_title">مشروبات</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+
+
+    <string name="item_doner_juneci">لحم البقر دونر</string>
+    <string name="item_doner_chicken">دونر دجاج</string>
+    <string name="item_doner_salad">سلطة دونر</string>
+    <string name="item_doner_box">علبة دونر</string>
+    <string name="item_doner_cheese">دونر بالجبنة</string>
+
+
+    <string name="item_tortilja_juneća">تورتيلا لحم ضأن</string>
+    <string name="item_tortilja_pileća">تورتيلا دجاج</string>
+
+
+    <string name="item_hamburger">همبرغر</string>
+    <string name="item_cizburger">تشيز برجر</string>
+    <string name="item_chicken_file">فيليه دجاج</string>
+
+
+    <string name="item_plata_sarajevo">دونر بلاتا سراييفو</string>
+    <string name="item_plata_berlin">دونر بلاتا برلين</string>
+    <string name="item_plata_istanbul">دونر بلاتا اسطنبول</string>
+
+
+    <string name="item_pomfrit">بطاطس مقلية</string>
+    <string name="item_riza">أرز</string>
+
+
+    <string name="item_gazirani">العصائر الغازية</string>
+    <string name="item_prirodni">العصائر الطبيعية</string>
+    <string name="item_mineralna">مياه معدنية</string>
+    <string name="item_prirodna">المياه الطبيعية</string>
+    <string name="item_ayran">عيران</string>
+    <string name="menu">قائمة طعام</string>
+
+    <string name="quantity_format">Količina: %d</string>
+    <string name="price_format">Cijena: KM %.2f</string>
+
+    <string name="cart_back">العودة</string>
+    <string name="cart_order">المجموع</string>
+    <string name="cart_total">KM %s الطلب</string>
+
+
+
+    <string name="kecap">كاتشب</string>
+    <string name="majoneza">مايونيز</string>
+    <string name="kupus">كرنب</string>
+    <string name="salata">سلطة</string>
+    <string name="luk">البصل</string>
+    <string name="blagi_sos">صلصة خفيفة</string>
+    <string name="ljuti_sos">صلصة حارة</string>
+    <string name="paradajz">طماطم</string>
+    <string name="chilli">الفلفل الحار</string>
+
+    <string name="prilozi">الإضافات</string>
+    <string name="bez_priloga">أعزب</string>
+
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">CityDoner</string>
+    <string name="intro_text">Willkommen bei City Doner! \nWählen Sie Ihre Sprache und beginnen Sie mit der Bestellung</string>
+    <string name="intro_button_text">Beginnen Sie mit der Bestellung</string>
+    <string name="main_preporuceno_naslov">Empfohlen</string>
+    <string name="main_doner_title">Döner</string>
+    <string name="restart">Neustart</string>
+    <string name="korpa">Warenkorb</string>
+    <string name="rostilj_title">Grill</string>
+    <string name="tortilja_title">Tortilla</string>
+    <string name="plata_title">Dönerteller</string>
+    <string name="prilog_title">Beilagen</string>
+    <string name="pice_title">Getränke</string>
+    <string name="add_to_cart">In den Warenkorb legen</string>
+
+
+
+    <string name="item_doner_juneci">Rindfleisch-Döner</string>
+    <string name="item_doner_chicken">Hähnchen-Döner</string>
+    <string name="item_doner_salad">Dönersalat</string>
+    <string name="item_doner_box">Dönerbox</string>
+    <string name="item_doner_cheese">Döner mit Käse</string>
+
+
+    <string name="item_tortilja_juneća">Lamm-Tortilla</string>
+    <string name="item_tortilja_pileća">Hühnertortilla</string>
+
+
+    <string name="item_hamburger">Hamburger</string>
+    <string name="item_cizburger">Cheeseburger</string>
+    <string name="item_chicken_file">Hähnchenfilet</string>
+
+
+    <string name="item_plata_sarajevo">Dönerteller Sarajevo</string>
+    <string name="item_plata_berlin">Dönerteller Berlin</string>
+    <string name="item_plata_istanbul">Dönerteller Istanbul</string>
+
+
+    <string name="item_pomfrit">Pommes frites</string>
+    <string name="item_riza">Reis</string>
+
+
+    <string name="item_gazirani">Kohlensäurehaltige Säfte</string>
+    <string name="item_prirodni">Natürliche Säfte</string>
+    <string name="item_mineralna">Mineralwasser</string>
+    <string name="item_prirodna">Natürliches Wasser</string>
+    <string name="item_ayran">Ayran</string>
+    <string name="menu">Speisekarte</string>
+
+    <string name="quantity_format">Količina: %d</string>
+    <string name="price_format">Cijena: KM %.2f</string>
+
+    <string name="cart_back">Zurück</string>
+    <string name="cart_order">Gesamt</string>
+    <string name="cart_total">Bestellung: %s KM</string>
+
+
+    <string name="kecap">Ketchup</string>
+    <string name="majoneza">Mayonnaise</string>
+    <string name="kupus">Kohl</string>
+    <string name="salata">Salat</string>
+    <string name="luk">Zwiebel</string>
+    <string name="blagi_sos">Milde Soße</string>
+    <string name="ljuti_sos">Scharfe Soße</string>
+    <string name="paradajz">Tomate</string>
+    <string name="chilli">Chili</string>
+
+    <string name="prilozi">Beläge</string>
+    <string name="bez_priloga">Solo</string>
+</resources>
